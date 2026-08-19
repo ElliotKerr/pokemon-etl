@@ -1,0 +1,3 @@
+tables:
+  - index_no: "1"
+    table_name: "nat_dex_entries"
